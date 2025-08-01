@@ -25,7 +25,7 @@ const SplashScreen = () => {
           City Pulse
         </h1>
         <p className="mt-4 text-lg md:text-xl animate-fade-in delay-500">
-          Your City, Your Events, Your Beat.
+          Your City, Your Events, Your Beat
         </p>
       </div>
     </div>
