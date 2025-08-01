@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/city-pluse/static/css/main.82d96080.css",
+    "main.js": "/city-pluse/static/js/main.9c9327b6.js",
+    "static/media/abu-dhabi.jpg": "/city-pluse/static/media/abu-dhabi.ee07e15aa59a1167449a.jpg",
+    "static/media/avatar.jpg": "/city-pluse/static/media/avatar.41422064c1abaf4c0f84.jpg",
+    "index.html": "/city-pluse/index.html",
+    "main.82d96080.css.map": "/city-pluse/static/css/main.82d96080.css.map",
+    "main.9c9327b6.js.map": "/city-pluse/static/js/main.9c9327b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82d96080.css",
+    "static/js/main.9c9327b6.js"
+  ]
+}
