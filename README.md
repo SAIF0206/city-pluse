@@ -8,6 +8,15 @@ City Pulse is a modern React web application that helps users discover live even
 
 [![Watch the demo] https://youtu.be/7pJney_xwLg
 
+🌐 **Live Demo**:
+
+https://saif0206.github.io/city-pluse
+
+## 🔐 Demo Login Credentials
+
+- **Email**: `demo@xyz.com`
+- **Password**: `demo1234`
+
 ## 🌟 Features
 
 - 🔍 Search events by **keyword** and **city**
